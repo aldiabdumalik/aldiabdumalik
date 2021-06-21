@@ -2,7 +2,6 @@
 
 <img align="right" alt="GIF" height="125px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
 
-<details>
 **Programming Skills:**
 - PHP
   - Laravel
@@ -23,17 +22,18 @@
   - MySQL
   - SQL Server
   - MongoDB
-</details>
 
 <details>
 	<summary><b>Beberpa project resmi, yang pernah saya kerjakan</b></summary>
-	* Survei Digital LSF RI 2019 & 2020
-	* Whatsapp Blast for Survei Digital LSF RI 2020
-	* Website, Online Registration System & SPP Online System Tanri Abeng University
-	* Email Marketing Save The Children ID
-	* Video Sales Marketing Apps Sunlife
-	* Aplikasi Pencarian Driver Online (KembarJek)
-	* Portal Berita / Blog
-	* Website & CMS PT Mitra Andalan Karawang
-	* Etc.
+	<ul>
+		<li> Survei Digital LSF RI 2019 & 2020 </li>
+		<li> Whatsapp Blast for Survei Digital LSF RI 2020 </li>
+		<li> Website, Online Registration System & SPP Online System Tanri Abeng University </li>
+		<li> Email Marketing Save The Children ID </li>
+		<li> Video Sales Marketing Apps Sunlife </li>
+		<li> Aplikasi Pencarian Driver Online (KembarJek) </li>
+		<li> Portal Berita / Blog </li>
+		<li> Website & CMS PT Mitra Andalan Karawang </li>
+		<li> Etc. </li>
+	</ul>
 </details>
