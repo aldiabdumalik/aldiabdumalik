@@ -1,4 +1,4 @@
-## Hallo semua, perkenalkan saya Aldi Abdu Malik <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## Hi there, I'm Aldi Abdu Malik <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <img align="right" alt="GIF" height="125px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
 
@@ -24,7 +24,7 @@
   - MongoDB
 
 <details>
-	<summary><b>Beberpa project resmi, yang pernah saya kerjakan</b></summary>
+	<summary><b>Some official projects, I've worked on</b></summary>
 	<ul>
 		<li> Survei Digital LSF RI 2019 & 2020 </li>
 		<li> Whatsapp Blast for Survei Digital LSF RI 2020 </li>
